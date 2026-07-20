@@ -1,0 +1,15 @@
+langchain
+langchain-openai
+langchain-community
+langchain-core
+langgraph
+openai
+python-dotenv
+uvicorn
+fastapi
+streamlit
+yfinance
+pandas
+pydantic
+pydantic-settings
+requests
